@@ -1,4 +1,4 @@
 package utils
-public  Cart{
+public class Cart{
 // some info
 }
